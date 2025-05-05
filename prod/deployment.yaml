@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: cloudflare-dns-manager
-        image: jsrankit/cloudflare-dns-manager:050525-09-22  # This will be updated by GitHub Actions
+        image: jsrankit/cloudflare-dns-manager:050525-09-35  # This will be updated by GitHub Actions
         ports:
         - containerPort: 8080
